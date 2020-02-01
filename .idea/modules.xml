@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter10_正则/chapter10_正则.iml" filepath="$PROJECT_DIR$/chapter10_正则/chapter10_正则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11_集合/chapter11_集合.iml" filepath="$PROJECT_DIR$/chapter11_集合/chapter11_集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12_泛型和枚举/chapter12_泛型和枚举.iml" filepath="$PROJECT_DIR$/chapter12_泛型和枚举/chapter12_泛型和枚举.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13_异常、断言、日志/chapter13_异常、断言、日志.iml" filepath="$PROJECT_DIR$/chapter13_异常、断言、日志/chapter13_异常、断言、日志.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14_IO流/chapter14_IO流.iml" filepath="$PROJECT_DIR$/chapter14_IO流/chapter14_IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15_其他流/chapter15_其他流.iml" filepath="$PROJECT_DIR$/chapter15_其他流/chapter15_其他流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16_多线程/chapter16_多线程.iml" filepath="$PROJECT_DIR$/chapter16_多线程/chapter16_多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17_网络编程/chapter17_网络编程.iml" filepath="$PROJECT_DIR$/chapter17_网络编程/chapter17_网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18_反射、类加载、动态代理/chapter18_反射、类加载、动态代理.iml" filepath="$PROJECT_DIR$/chapter18_反射、类加载、动态代理/chapter18_反射、类加载、动态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19_注解/chapter19_注解.iml" filepath="$PROJECT_DIR$/chapter19_注解/chapter19_注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter1_数据类型/chapter1_数据类型.iml" filepath="$PROJECT_DIR$/chapter1_数据类型/chapter1_数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20.1_Lambda和函数式接口/chapter20.1_Lambda和函数式接口.iml" filepath="$PROJECT_DIR$/chapter20.1_Lambda和函数式接口/chapter20.1_Lambda和函数式接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20.2_Stream API/chapter20.2_Stream API.iml" filepath="$PROJECT_DIR$/chapter20.2_Stream API/chapter20.2_Stream API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20.3_Optional/chapter20.3_Optional.iml" filepath="$PROJECT_DIR$/chapter20.3_Optional/chapter20.3_Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21_JVM/chapter21_JVM.iml" filepath="$PROJECT_DIR$/chapter21_JVM/chapter21_JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter22_jvm调优/chapter22_jvm调优.iml" filepath="$PROJECT_DIR$/chapter22_jvm调优/chapter22_jvm调优.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23_设计模式/chapter23_设计模式.iml" filepath="$PROJECT_DIR$/chapter23_设计模式/chapter23_设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_流程控制/chapter2_流程控制.iml" filepath="$PROJECT_DIR$/chapter2_流程控制/chapter2_流程控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_字符串处理/chapter3_字符串处理.iml" filepath="$PROJECT_DIR$/chapter3_字符串处理/chapter3_字符串处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4_数组/chapter4_数组.iml" filepath="$PROJECT_DIR$/chapter4_数组/chapter4_数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5_函数/chapter5_函数.iml" filepath="$PROJECT_DIR$/chapter5_函数/chapter5_函数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6.1_面向对象/chapter6.1_面向对象.iml" filepath="$PROJECT_DIR$/chapter6.1_面向对象/chapter6.1_面向对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6.2_继承和多态/chapter6.2_继承和多态.iml" filepath="$PROJECT_DIR$/chapter6.2_继承和多态/chapter6.2_继承和多态.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7_数字处理和日期类/chapter7_数字处理和日期类.iml" filepath="$PROJECT_DIR$/chapter7_数字处理和日期类/chapter7_数字处理和日期类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8_Object和Comparable/chapter8_Object和Comparable.iml" filepath="$PROJECT_DIR$/chapter8_Object和Comparable/chapter8_Object和Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9_内置包装类/chapter9_内置包装类.iml" filepath="$PROJECT_DIR$/chapter9_内置包装类/chapter9_内置包装类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_study.iml" filepath="$PROJECT_DIR$/java_study.iml" />
+    </modules>
+  </component>
+</project>
